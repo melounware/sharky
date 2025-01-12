@@ -1,6 +1,8 @@
 # sharky
 
 your little friend
+write in c#
+its based on microsoft agents
 
 
 
