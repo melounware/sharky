@@ -2,7 +2,7 @@
 
 your little friend
 write in c#
-its based on microsoft agents
+based on microsoft agents
 
 # [Download](https://github.com/melounware/sharky/releases/tag/sharky)
 
